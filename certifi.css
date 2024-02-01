@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    background-color:rgb(8,27,41);
+
+    
+}
+
+.nav{
+    
+    display: flex;
+    background-color: rgb(8,27,41);
+    position:fixed;
+    top: 0px;
+    z-index:10;
+    width:1700px;
+}
+.A{
+    
+    margin-right: 60px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size:22px;
+    margin-top: 20px;
+    padding:5px;
+    font-weight: bold;
+    position: ;
+    left: ;
+}   
+#W{
+    position: absolute;
+    left:50% ;
+}
+
+#R{
+    position: absolute;
+    left:57% ;
+}
+#S{
+    position: absolute;
+    left:64% ;
+}
+#T{
+    position: absolute;
+    left:71% ;
+}
+#L{
+    position: absolute;
+    left: 78%;
+}
+#X{
+    position: absolute;
+    left: 88%;
+}
+
+.A:hover{
+   
+    color: rgb(3, 195, 253);
+    box-shadow: 0px 0px 4px 2px rgb(3, 195, 253);
+    border-radius: 9%;
+}
+div{
+    color: aliceblue;
+    font-size: 19px;
+    margin-left: 20px;
+}
+#p{
+    height: 300px;
+    width: 500px;
+    margin: 25px;
+    
+}
+#v{
+    height: 300px;
+    position: absolute;
+    left: 1200px;
+    top: 66.5em;
+}
+.photos{
+    position:absolute;
+    left: 300px;
+    top: 60px;
+    z-index: ;
+}
+.M{
+    position:absolute;
+    left: 600px;
+    top: 44px;
+}
+.O{
+    position:absolute;
+    left: 600px;
+    top: 64.em;
+}
+#p:hover{
+    transform: scale(1.1);
+}
+.topics{
+   
+   position: fixed;
+   top: 96px;
+   
+   line-height: 1.5;
+   font-size: 1.5em;
+   background-color: rgb(2, 69, 69);
+   
+   width:295px ;
+   height:800px ;
+   
+
+}
+
+.tot{
+    position: absolute;
+    top: 6em;
+    
+
+}
+.tot h3
+{
+    line-height: 3;
+    color:rgb(0, 255, 0);
+    background-color: rgb(2, 69, 69);
+    
+}
+#n{
+    position: absolute;
+    top: 0px;
+    background-color: rgb(8,27,41);
+    height: 60px;
+    position: fixed;
+    
+}
+.fit{
+    position: sticky;
+    top: 50px;
+    width: ;
+}
+#p1{
+    width:1140px ;
+}
+h3:hover{
+    transform:scale(1.1) ;
+    color: rgb(254, 83, 200);
+    
+    box-shadow: 0px 0px 4px 5px;
+}   
+ 
+
+
+
